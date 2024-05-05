@@ -6,4 +6,7 @@
    ![image](https://github.com/cotangence/homework_terraform2/assets/160312212/c291b6d0-4ac9-4bc6-9c4e-4b4a725ff21b)
 
 
-2)
+2)![image](https://github.com/cotangence/homework_terraform2/assets/160312212/1cca3488-cf7c-4eab-b1d9-337750ee85fd)
+![image](https://github.com/cotangence/homework_terraform2/assets/160312212/b5cd750c-deb2-45e7-a3f8-9be51031432b)
+
+
