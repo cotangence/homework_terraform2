@@ -10,3 +10,12 @@
 ![image](https://github.com/cotangence/homework_terraform2/assets/160312212/b5cd750c-deb2-45e7-a3f8-9be51031432b)
 
 
+Задание 3
+![image](https://github.com/cotangence/homework_terraform2/assets/160312212/ad8f3b87-465a-48d4-bc56-7ce0b6993221)
+![image](https://github.com/cotangence/homework_terraform2/assets/160312212/26bf3f84-f6b2-4415-a6f0-a3834429d57c)
+
+
+Задание 4
+
+
+
