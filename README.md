@@ -16,6 +16,7 @@
 
 
 Задание 4
+![image](https://github.com/cotangence/homework_terraform2/assets/160312212/91e39c41-414f-4339-abd5-a50b70d1a613)
 
 
 
