@@ -18,5 +18,7 @@
 Задание 4
 ![image](https://github.com/cotangence/homework_terraform2/assets/160312212/91e39c41-414f-4339-abd5-a50b70d1a613)
 
+Задание 5
+![image](https://github.com/cotangence/homework_terraform2/assets/160312212/db317fb0-e0d1-463e-944e-b78a195e858c)
 
 
